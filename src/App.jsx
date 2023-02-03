@@ -1,8 +1,7 @@
+import KlasaComponent from "./KlasaComponent";
 
 const App = () => {
-  return (
-    <div></div>
-  );
-}
+  return <KlasaComponent />
+};
 
 export default App;
